@@ -67,7 +67,7 @@
 ## 🏠 Blog
 
 <div align="center">
-  <a href="https://www.imcao.cn"><img width="60%" src="https://cdn.jsdelivr.net/gh/ImCa0/ImCa0/assets/blog.png"></a>
+  <a href="https://www.imcao.cn"><img src="https://cdn.jsdelivr.net/gh/ImCa0/ImCa0/assets/blog.png"></a>
 </div>
 
 ## 🔨 Project
