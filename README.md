@@ -64,19 +64,23 @@
   <img alt="PyCharm" src="https://img.shields.io/badge/-PyCharm-000000?logo=PyCharm&logoColor=white" />
 </p>
 
+## 🧑‍💻 Occupation
+
+Now, working in HUAWEI, CBG Software Dept at HangZhou, contributing to [OpenHarmony](https://gitee.com/openharmony) at Gitee titled [@ImCaO](https://gitee.com/ImCaO).
+
 ## 🏠 Blog
 
 <div align="center">
   <a href="https://www.imcao.cn"><img src="https://cdn.jsdelivr.net/gh/ImCa0/ImCa0/assets/blog.png"></a>
 </div>
 
-## 🔨 Project
+## ~🔨 Project @deprecated~
 
-🎓 I am currently studying for a master's degree in mechanical and electronic engineering at NUAA.
+~🎓 I am currently studying for a master's degree in mechanical and electronic engineering at NUAA.~
 
-🔬 My research topic is the optimal allocation of resources in industrial Internet cloud manufacturing.
+~🔬 My research topic is the optimal allocation of resources in industrial Internet cloud manufacturing.~
 
-💻 The project involved is the development of **enterprise service station(ESS)** in cloud manufacturing.
+~💻 The project involved is the development of **enterprise service station(ESS)** in cloud manufacturing.~
 
 <table>
   <tr>
