@@ -66,41 +66,10 @@
 
 ## 🧑‍💻 Occupation
 
-Now, working in HUAWEI, CBG Software Dept at HangZhou, contributing to [OpenHarmony](https://gitee.com/openharmony) at Gitee titled [@ImCaO](https://gitee.com/ImCaO).
+Now, working in HUAWEI, CBG Software Dept at HangZhou, contributing to [OpenHarmony](https://gitcode.com/openharmony) at GitCode titled [@ImCaO](https://gitcode.com/ImCaO).
 
 ## 🏠 Blog
 
 <div align="center">
   <a href="https://www.imcao.cn"><img src="https://cdn.jsdelivr.net/gh/ImCa0/ImCa0/assets/blog.png"></a>
 </div>
-
-## ~🔨 Project @deprecated~
-
-~🎓 I am currently studying for a master's degree in mechanical and electronic engineering at NUAA.~
-
-~🔬 My research topic is the optimal allocation of resources in industrial Internet cloud manufacturing.~
-
-~💻 The project involved is the development of **enterprise service station(ESS)** in cloud manufacturing.~
-
-<table>
-  <tr>
-    <th width="40%">Project</th>
-    <th width="45%">Introduction</th>
-    <th width="15%">Repo Info</th>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ImCa0/ESS-frontend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ImCa0&repo=ESS-frontend&theme=buefy"></a></td>
-    <td>This project uses <a href="https://github.com/PanJiaChen/vue-admin-template">vue-admin-template</a> as the template. And libraries such as Element UI and ECharts are involved to build the front-end page of enterprise service station.</td>
-    <td><img src="https://img.shields.io/tokei/lines/github/ImCa0/ESS-frontend"> <img src="https://img.shields.io/github/last-commit/ImCa0/ESS-frontend"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ImCa0/ESS-backend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ImCa0&repo=ESS-backend&theme=buefy"></a></td>
-    <td>This project is developed on Spring Boot. Different from the traditional web development, Neo4j is used in this project to build knowledge graph model of manufacturing resources.</td>
-    <td><img src="https://img.shields.io/tokei/lines/github/ImCa0/ESS-backend"> <img src="https://img.shields.io/github/last-commit/ImCa0/ESS-backend"></td>
-  </tr>
-  <tr>
-    <td><a href="https://github.com/ImCa0/influxdb-api-springboot"><img src="https://github-readme-stats.vercel.app/api/pin/?username=ImCa0&repo=influxdb-api-springboot&theme=buefy"></a></td>
-    <td>This project provides the API for influxdb. It is called by ESS-frontend directly to display real-time data of manufacturing resources as a distributed application.</td>
-    <td><img src="https://img.shields.io/tokei/lines/github/ImCa0/influxdb-api-springboot"> <img src="https://img.shields.io/github/last-commit/ImCa0/influxdb-api-springboot"></td>
-  </tr>
-</table>
